@@ -1,2 +1,2 @@
 # hello-world
-this is my time on git hub
+this is my first time on git hub 
